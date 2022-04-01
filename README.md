@@ -11,3 +11,7 @@ Some description!
 Watch the tutorial
 umm hello!?
 
+
+## Local Development
+
+1. Open index.html in your browser.
